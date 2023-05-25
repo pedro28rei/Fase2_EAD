@@ -1,0 +1,9 @@
+8;Dinis Loureiro;20;987833456;Braga;477889900;300.00;avenidade.liberdade.fonte
+7;Marco Jonas;23;967990345;Braga;456789000;350.00;casa.amarela.tijolo
+6;Rui Neto;34;98956789012;Braga;456789000;400.00;zona.lojas.gato
+5;Matilde Oliveira;23;945666789;Braga;456789000;100.00;avenida.liberdade.fonte
+4;Joana Azevedo;34;987090334;Braga;345446789;200.00;avenida.liberdade.fonte
+3;Duarte Veloso;30;989045478;Braga;477788989;700.00;pedra.jardim.rosas
+2;Pedro Neto;22;989794959;Braga;992098798;800.00;pedra.jardim.rosas
+1;Martim Cunha;24;929233454;Braga;945678990;1700.00;casa.amarela.tijolo
+0;Alice Oliveira;25;969035357;Braga;455999030;1200.00;casa.amarela.tijolo

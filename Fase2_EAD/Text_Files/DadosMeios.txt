@@ -1,0 +1,5 @@
+4;Skate;30;5.7;5.00;0;avenida.carneiro.costa;80;10
+3;Trotinete;23;7.0;5.00;0;zona.lojas.gato;100;10
+2;Bicicleta;54;20.0;5.00;0;zona.lojas.gato;300;16
+1;Skate;44;7.0;4.00;1;avenida.liberdade.fonte;80;3
+0;Trotinete;96;30.0;5.00;0;avenida.liberdade.fonte;100;10

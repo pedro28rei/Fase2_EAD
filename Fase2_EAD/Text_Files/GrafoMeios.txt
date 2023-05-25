@@ -1,0 +1,16 @@
+Ferreiros;1;Trotinete;5.00;47;10
+Ferreiros;15;Trotinete;5.00;80;10
+Ferreiros;2;Skate;5.00;45;7
+Ferreiros;7;Skate;5.00;70;7
+Gualtar;3;Skate;5.00;20;7
+Gualtar;11;Trotinete;5.00;70;10
+Aveleda;4;Trotinete;5.00;80;10
+Aveleda;19;Trotinete;5.00;60;10
+Lomar;5;Bicicleta;5.00;90;15
+Lomar;9;Trotinete;5.00;40;10
+Lomar;13;Trotinete;5.00;30;10
+Maximinos;30;Skate:7.00;40;7
+Frossos;40;Trotinete;6.00;70;10
+Figueiredo;33;Bicicleta;7.00;80;15
+Celeiros;39;Trotinete;7.00;40;10
+Lomar;49;Trotinete;6.00;70;10

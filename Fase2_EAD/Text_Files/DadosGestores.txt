@@ -1,0 +1,4 @@
+3;Carla Freitas;55;Viseu;935757568
+2;Luis Nunes;45;Viseu;967029312
+1;Mateus Duarte;30;Porto;934032456
+0;Nuno Neto;25;Lisboa;945677890

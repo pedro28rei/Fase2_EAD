@@ -1,0 +1,16 @@
+Ferreiros;Maximinos;50
+Maximinos;Ferreiros;50
+Ferreiros;Lomar;200
+Lomar;Ferreiros;200
+Ferreiros;Aveleda;70
+Aveleda;Ferreiros;70
+Maximinos;Lomar;30
+Lomar;Maximinos;30
+Aveleda;Celeiros;30
+Celeiros;Aveleda;30
+Maximinos;Figueiredo;100
+Figueiredo;Maximinos;100
+Figueiredo;Gualtar;20
+Gualtar;Figueiredo;20
+Figueiredo;Frossos;50
+Frossos;Figueiredo;50

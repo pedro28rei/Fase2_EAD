@@ -1,0 +1,12 @@
+Gualtar;3
+Aveleda;5
+Lomar;12
+Lomar;4
+Ferreiros;7
+Ferreiros;1
+Ferreiros;9
+Lomar;22
+Aveleda;29
+Figueiredo;6
+Maximinos;88
+Aveleda;77
